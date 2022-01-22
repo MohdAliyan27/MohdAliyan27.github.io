@@ -49,4 +49,4 @@ I enjoy being outdoors, so I go for a run every day. I love traveling to differe
 
 ---
 
-### Thanks for your time.
+### Thank you.
