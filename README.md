@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a backend engineer with an experience of over 5 years. I have hands on experience working with web frameworks and technologies. I have extensively worked on Node.js and MongoDB for 4 years. Individual with well-honed skills in computer science and technical expertise in support of specialized programming projects using web-based and client-server tools. Interested in the challenging role and exploring new technologies.Coming with the strong ability to design, develop and maintain software applications.
+I am a backend engineer with experience of over 5 years. I have hands-on experience working with web frameworks and technologies. I have extensively worked on Node.js and MongoDB for 4 years. Individual with well-honed skills in computer science and technical expertise in support of specialized programming projects using web-based and client-server tools. Interested in the challenging role and exploring new technologies.Coming with the strong ability to design, develop and maintain software applications.
 
 ---
 
@@ -22,13 +22,13 @@ I am a backend engineer with an experience of over 5 years. I have hands on expe
 
 Involved in the application development of the website using Node.js and MongoDB.
 Requirement discussion with the customers, Design Technical documents, Created test plans, Traceability Matrix, Source Code Review document, and flow design for an application.
-Created Database design, tables and queries.
-Active participation during the planning and analyzing the project’s health.Working with a team of developers to provide best available solution to the Japanese Clients and participant in day to day meetings . 
+Created Database design, tables, and queries.
+Active participation during the planning and analyzing the project’s health. Working with a team of developers to provide the best available solution to the clients and participate in day-to-day meetings. 
 
 ### **BACKEND DEVELOPER**
 ### TCS
 
-Worked with team to build Web based Applications using Node.js, MongoDB and graphql. Involved in the application development of the website using Node.js and MongoDB.
+Worked with team to build Web-based Applications using Node.js, MongoDB, and GraphQL. Involved in the application development of the website using Node.js and MongoDB.
 Requirement discussion with the senior team members.Technical documentation.
 Created Database tables and queries.
 
@@ -43,6 +43,10 @@ Percentage 79
 ---
 
 ### INTERESTS
-Apart from being a web developer, I do social activities and support social cause. I am engaged with the activities to support unprevilaged students and engaged with One HCL.
+Apart from being a web developer, I do social activities and support social causes. I am engaged with the activities to support unprivileged students and engaged with One HCL.
 
-I enjoy being outdoors, so i go for run everyday. I love travelling to different places and explore different cultures. When I am inside , i used to google things about technology and watch movies in my free time.
+I enjoy being outdoors, so I go for a run every day. I love traveling to different places and exploring different cultures. When I am inside, I used to google things about technology and watch movies in my free time.
+
+---
+
+### Thanks for your time.
