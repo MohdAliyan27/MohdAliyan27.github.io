@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a backend engineer with experience of over 5 years. I have hands-on experience working with web frameworks and technologies. I have extensively worked on Node.js and MongoDB for 4 years. Individual with well-honed skills in computer science and technical expertise in support of specialized programming projects using web-based and client-server tools. Interested in the challenging role and exploring new technologies.Coming with the strong ability to design, develop and maintain software applications.
+I am a backend engineer with experience of over 5 years. I have hands-on experience working with web frameworks and technologies. I have extensively worked on Node.js and MongoDB for 5+ years. Individual with well-honed skills in computer science and technical expertise in support of specialized programming projects using web-based and client-server tools. Interested in the challenging role and exploring new technologies.Coming with the strong ability to design, develop and maintain software applications.
 
 ---
 
@@ -20,10 +20,10 @@ I am a backend engineer with experience of over 5 years. I have hands-on experie
 ### **SENIOR BACKEND DEVELOPER**
 ### HCL
 
-Involved in the application development of the website using Node.js and MongoDB.
-Requirement discussion with the customers, Design Technical documents, Created test plans, Traceability Matrix, Source Code Review document, and flow design for an application.
-Created Database design, tables, and queries.
-Active participation during the planning and analyzing the project’s health. Working with a team of developers to provide the best available solution to the clients and participate in day-to-day meetings. 
+Involved in the application development of the websites using Node.js and MongoDB.
+Requirement discussion with the customers. Design Technical documents have created test plans, Traceability Matrix, Source Code Review document and flow design for an application.
+Also worked on the creation of Database design, tables, and queries.
+Have contributed with Active participation during planning and analyzing the project’s health. Working with a team of developers having an expertise to provide the best available solution to the clients and participate in day-to-day meetings. 
 
 ### **BACKEND DEVELOPER**
 ### TCS
@@ -38,7 +38,7 @@ Created Database tables and queries.
 
 ### **ALIGARH MUSLIM UNIVERSITY**
 ### Masters in Computer Application (2013- 2016)
-Percentage 79
+Percentage 78.97%
 
 ---
 
