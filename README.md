@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a backend engineer with experience of over 5 years. I have hands-on experience working with web frameworks and technologies. I have extensively worked on Node.js and MongoDB for 5+ years. Individual with well-honed skills in computer science and technical expertise in support of specialized programming projects using web-based and client-server tools. Interested in the challenging role and exploring new technologies.Coming with the strong ability to design, develop and maintain software applications.
+I am a backend engineer with experience of over 7 years. I have hands-on experience working with web frameworks and technologies. I have extensively worked on Node.js and MongoDB for 7+ years. Individual with well-honed skills in computer science and technical expertise in support of specialized programming projects using web-based and client-server tools. Interested in the challenging role and exploring new technologies.Coming with the strong ability to design, develop, and maintain software applications.
 
 ---
 
